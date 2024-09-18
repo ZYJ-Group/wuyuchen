@@ -4,7 +4,7 @@
 
 #### A*算法与人工势场法的融合
 
-![a55afa5b9ef4239be6c1db18c3de1d7](C:\Users\admin\Documents\WeChat Files\wxid_tr41g1c5qkgm22\FileStorage\Temp\a55afa5b9ef4239be6c1db18c3de1d7.png)
+![a55afa5b9ef4239be6c1db18c3de1d7](https://github.com/ZYJ-Group/wuyuchen/blob/main/%E5%91%A8%E5%B7%A5%E4%BD%9C/%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92.png)
 
   结合a星算法，在a星算法搜索的过程中，使用人工势场法来评估节点代价，帮助决定搜索方向。可以解决人工势场法的局部最优和目标点不可达的问题。
 
